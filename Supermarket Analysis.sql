@@ -22,6 +22,7 @@ FROM "Supermarket" s join "detail_of_price" dp on (s.purch_id=dp.purch_id)
 group by 1
 
 
+\*Question 4.find the rank of most buying product_line*/
 
 SELECT product_line,sum(total),dense_rank() over(order by sum(total) desc) as rnk
 FROM "Supermarket" s join "detail_of_price" dp on (s.purch_id=dp.purch_id)

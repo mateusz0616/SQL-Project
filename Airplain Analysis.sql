@@ -1,6 +1,6 @@
 
 ———————————————————————————
-\*—output passengers table*/
+-—output passengers table
 
 SELECT * 
 FROM „passengers”

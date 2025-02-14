@@ -1,5 +1,5 @@
 # SQL Projects Portfolio
-📌 This repository contains five SQL projects focused on data analysis, database management, and business insights. Each project demonstrates expertise in writing efficient queries, data cleaning, and extracting meaningful insights from structured datasets.
+📌 This repository contains  SQL projects focused on data analysis, database management, and business insights. Each project demonstrates expertise in writing efficient queries, data cleaning, and extracting meaningful insights from structured datasets.
 
 ## Projects
 
@@ -21,4 +21,13 @@
 - 🗒️ Description: **This project analyzes a dataset of billionaires, exploring wealth distribution, demographics, industries, and global representation. The SQL queries provide insights into the richest individuals, industry trends, country-wise distributions, gender breakdowns, and more.**
 - 📕 Key SQL Techniques Used: **Aggregation Functions,Ranking functions,Window functions,Conditional Logic,Joins & Subqueries,Stored Procedures.**
 - 🛠️ Tool: PostgreSQL
+
+
+4.🚊 UK train Analysis
+- 3️⃣ This project contains 3 tables: Train,Ticket_info,Customer
+- 📊 This is the first part of the project, the second is the dashboard at Tableau.
+- 🗒️ Description: **This project provides insights that can help railway companies improve efficiency, increase revenue, and enhance customer satisfaction.**
+- 📕 Key SQL Techniques Used: **Basic Queries,Joins Queries,CASE Statements,CTEs,Window Functions,Analytics Functions,Advanced Joins,Views,Stored Procedures**
+- 🛠️ Tool: MySQL
+ 
  
